@@ -3,7 +3,7 @@
     <br><strong><font size=50>每日签到集合</font></strong>
     <br>基于【腾讯云函数】/【GitHub Actions】/【Docker】的每日签到脚本
     <br>支持多账号使用1
-</p>
+</p>1
 
 <p align="center">
     <a href="https://t.me/dailycheckin"><img src="https://img.shields.io/badge/Talk-Telegram-brightgreen.svg?style=popout-square" alt="Telegram"></a>
